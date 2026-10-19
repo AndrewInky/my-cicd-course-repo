@@ -6,3 +6,7 @@ Repository for CI/CD course labs
 This repository will be used for CI/CD labs.
 ## Week 1
 This week introduces GitHub, commits, branches, pull requests, and GitHub Actions.
+
+## Branch Practice
+
+This change was made on a separate branch using GitHub Desktop.
